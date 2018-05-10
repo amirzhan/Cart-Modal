@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cart-modal-project
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Cart-Modal
+>>>>>>> 92c83d7d57435a78cd364c50307fd77977331f2f
